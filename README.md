@@ -1,5 +1,5 @@
 # regex-matches
-> This is only boilerplate - Not a real module
+> Get regex matches without looping
 
 [![travis](https://img.shields.io/travis/ecrmnn/regex-matches/master.svg?style=flat-square)](https://travis-ci.org/ecrmnn/regex-matches/builds)
 [![npm version](https://img.shields.io/npm/v/regex-matches.svg?style=flat-square)](http://badge.fury.io/js/regex-matches)
